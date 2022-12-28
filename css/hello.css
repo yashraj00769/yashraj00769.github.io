@@ -1,0 +1,166 @@
+body{
+  text-align: center;
+  font-family: 'El Messiri', sans-serif;
+  color:#FEFCF3;
+  background-color:#191919;
+}
+/*body:hover{
+  background-color: #191919;
+}*/
+p{
+  font-family: 'El Messiri', sans-serif;
+}
+
+.A1{
+  word-spacing: 1.5px;
+  letter-spacing: 2px;
+  font-size: 2em;
+
+}
+.A2{
+  color: #FFAFAF;
+  font-size: 3em;
+
+}
+.A3{
+  word-spacing: 1.5px;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+.A4{
+    word-spacing: 1,5px;
+    letter-spacing: 2px;
+    font-size: 2em;
+}
+.a4{
+  text-decoration: none;
+  color: #FEFCF3;
+}
+a{
+  color: #FFC3C3;
+  text-decoration: none;
+}
+a:hover{
+  color: #00FFAB;
+}
+/*page 2*/
+.A22{
+  color: #00FFAB;
+  font-size: 3em;
+}
+.A23{
+  color: #FF9F9F;
+}
+.A24{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em;
+}
+.a24:hover{
+  color:#FF9F9F;
+  cursor: pointer;
+}
+.A25{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em;
+}
+/*Page 3*/
+.A31{
+  word-spacing: 1,5px;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+.A32{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em;
+}
+.A33{
+  font-size: 1.5em;
+  color: #E97777;
+}
+.A35{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1em;
+  color: #9ED5C5;
+}
+/*page 4*/
+.A41{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em;
+}
+.A44{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+.A45{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1em;
+  color: #9ED5C5;
+}
+/*page 5*/
+.A51{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em
+}
+.A54{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+.a54{
+  color: #219F94;
+}
+.a55{
+  color: #E64848;
+}
+.A61{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em
+}
+.A62{
+  color: #00FFAB;
+  font-size: 2em;
+}
+.A64{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+.A65{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.30em;
+}
+.A66{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.50em;
+}
+.A71{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em
+}
+.A72{
+    word-spacing: 1px;
+    letter-spacing: 2px;
+    font-size: 2em;
+}
+.A81{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.5em
+}
+.A82{
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  font-size: 1.2em;
+}
